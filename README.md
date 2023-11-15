@@ -1,5 +1,12 @@
-## Next.js App Router Course - Starter
+"""
+Brief description of the function or class.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Detailed description of the function or class.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Args:
+    arg1 (type): Description of arg1.
+    arg2 (type): Description of arg2.
+
+Returns:
+    type: Description of the return value.
+"""
